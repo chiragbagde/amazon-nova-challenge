@@ -3,8 +3,6 @@
 > **Amazon Nova Hackathon Submission**
 > Transforming complex support interactions into structured, instantly actionable escalation tickets using **Amazon Nova Sonic** and **Nova Lite**.
 
-![Demo Preview](https://via.placeholder.com/800x400?text=Voice+Escalation+Copilot)
-
 ## 🌟 The Problem
 Customer support escalations are messy. Disjointed facts, missing context, and lengthy back-and-forth between Tier 1 agents and specialized teams result in SLA breaches and frustrated customers. When agents type out notes manually while talking, critical context is lost.
 
