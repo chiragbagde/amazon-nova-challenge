@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Local env files
+.env
+*.env
+frontend/.env
+frontend/.env.local
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Runtime data
+backend/data/tickets.json
+backend/data/*.tmp
+
+# IDEs
+.vscode/
+.idea/
+
+# Hackathon / Documentation
+devpost_story.md
+
+# OS files
+.DS_Store
+Thumbs.db
+# Local tools and scratch scripts
+tools/
